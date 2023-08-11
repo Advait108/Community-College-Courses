@@ -1,0 +1,12 @@
+INDEX VERSION 1.4+C:\Users\advai\Desktop\JavaScript Winter 2023\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2922704394.index
+2425575439.index
+3476391984.index
+3408996112.index
+1730551337.index
+2300410790.index
+2095220428.index
+2169090620.index
+520555246.index
+1133744468.index
+2856024397.index

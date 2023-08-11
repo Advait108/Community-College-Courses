@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+
+    <!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame
+    Remove this if you use the .htaccess -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+    <title>Exercise02 on Objects and Constructor's prototype property</title>
+    <meta name="description" content="" />
+    <meta name="author" content="TODO:Put Your Name Here" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script defer src="jquery-3.6.3.js"></script>
+    <script defer src="main.js"></script>
+  </head>
+
+  <body style="background-color: lightblue">
+    <h1>Exercise02: Objects and Constructor's prototype property</h1>
+    <div id="content" style="background-color: white">
+      <h2>Computers:</h2>
+    </div>
+  </body>
+</html>
